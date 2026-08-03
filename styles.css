@@ -61,6 +61,16 @@ header h1 {
     background-color: #0d0448;
 }
 
+
+.quran {
+    background-color: #2e8138;
+}
+
+.quran:hover {
+    background-color: #184e2b;
+}
+
+
 /* قسم الأذكار */
 .azkar-section {
     max-width: 800px;
